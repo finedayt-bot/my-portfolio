@@ -26,8 +26,8 @@ function App() {
           <div className='md:w-1/2 flex-grow mb-16 lg-pr-24 md:pr-16 text-center md:text-left '>
             <h1 className='text-3xl sm:text-6xl text-gray-900 font-medium mb-4 '>NisshoCode <br />
               My Portfolio Website</h1>
-            <p className='mb-8 leading-relaxed'>現在、Webエンジニアとしてデビューしたてのほやほやです。得意な言語はHTML,CSS,JavaScript,TypeScript,
-              PHP,SQL,ReactなどWeb全般とPaythonです。自身が作ったものを公開しておりますので、ぜひ見ていってください。</p>
+            <p className='mb-8 leading-relaxed'>現在、Webエンジニアとしてデビューしたてのほやほやです。得意な言語はHTML，CSS，JavaScript，TypeScript，
+              PHP，SQL，ReactなどWeb全般とPaythonです。自身が作ったものを公開しておりますので、ぜひ見ていってください。</p>
             <button className='text-white bg-green-500 py-2 px-6 border-0 rounded text-lg hover:bg-green-600 duration-300'>Contact Me</button>
           </div>
           <div className='md:w-1/2 lg:max-w-lg w-5/6'>
@@ -67,7 +67,7 @@ function App() {
                   <h2 className='text-gray-900 text-lg font-medium ml-2'>SNS Chat App</h2>
                 </div>
                 <div>
-                  <p>ReactとJavaScriptで投稿機能つきのChatアプリ。仕様はReact,JavaScript,html,css,firebase,AWS,ログイン・ログアウト認証
+                  <p>ReactとJavaScriptで投稿機能つきのChatアプリ。仕様はReact，JavaScripthtml，css，firebase，AWS，ログイン・ログアウト認証
                     昨日、メッセージ投稿機能、検索機能、お気に入り登録機能を実装しています。</p>
                   <a href="#" className='mt-3 text-green-500 items-center'>もっと見る</a>
                 </div>
@@ -105,7 +105,7 @@ function App() {
                   <h2 className='text-gray-900 text-lg font-medium ml-2'>SNS Chat App</h2>
                 </div>
                 <div>
-                  <p>ReactとJavaScriptで投稿機能つきのChatアプリ。仕様はReact,JavaScript,html,css,firebase,AWS,ログイン・ログアウト認証
+                  <p>ReactとJavaScriptで投稿機能つきのChatアプリ。仕様はReact，JavaScript，html，css，firebase，AWS，ログイン・ログアウト認証
                     昨日、メッセージ投稿機能、検索機能、お気に入り登録機能を実装しています。</p>
                   <a href="#" className='mt-3 text-green-500 items-center'>もっと見る</a>
                 </div>
@@ -131,7 +131,7 @@ function App() {
                   <h2 className='text-gray-900 text-lg font-medium ml-2'>SNS Chat App</h2>
                 </div>
                 <div>
-                  <p>ReactとJavaScriptで投稿機能つきのChatアプリ。仕様はReact,JavaScript,html,css,firebase,AWS,ログイン・ログアウト認証
+                  <p>ReactとJavaScriptで投稿機能つきのChatアプリ。仕様はReact，JavaScript，html，css，firebase，AWS，ログイン・ログアウト認証
                     昨日、メッセージ投稿機能、検索機能、お気に入り登録機能を実装しています。</p>
                   <a href="#" className='mt-3 text-green-500 items-center'>もっと見る</a>
                 </div>
